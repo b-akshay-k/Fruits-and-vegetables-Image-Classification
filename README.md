@@ -1,5 +1,5 @@
 # Fruits and Vegetables Image Classification CNN Project
-![Fruits and Vegetables Classification](images/Untitled design.jpg")
+![Fruits and Vegetables Classification]("https://www.google.com/imgres?q=fruits%20and%20vegetables&imgurl=https%3A%2F%2Fwww.nhlbi.nih.gov%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmeta_image%2Fpublic%2F2020-08%2FFruits%2520and%2520veggies%2520-%2520shutterstock_640972939.jpg%3Fitok%3Dvp28PtXv&imgrefurl=https%3A%2F%2Fwww.nhlbi.nih.gov%2Fnews%2F2020%2Fnew-study-indicates-eating-more-fruits-and-veggies-may-help-lower-markers-heart-disease&docid=T2by7MTSjn_2JM&tbnid=vWYilbQXkp24eM&vet=12ahUKEwiA2sT0lvaGAxU33TgGHY07AhYQM3oECHoQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwiA2sT0lvaGAxU33TgGHY07AhYQM3oECHoQAA")
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for classifying images of fruits and vegetables. The goal is to accurately identify and categorize different types of fruits and vegetables based on input images.
 
