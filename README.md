@@ -20,7 +20,7 @@ scikit-learn
 
 ### Installation
 1. Clone the repository:
- git clone https://github.com/yourusername/fruits-vegetables-classification.git
+ git clone https://github.com/b-akshay-k/Fruits-and-vegetables-Image-Classification.git
  cd fruits-vegetables-classification
 
 3. Create a virtual environment:
